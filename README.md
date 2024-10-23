@@ -23,19 +23,19 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](https://github.com/Waruni9810/Lellama-Online-Seafood-Market-Website/blob/main/1.png)
 *A clean, modern homepage showcasing featured seafood products.*
 
 ### Product Page
-![Product Page Screenshot](./screenshots/product_page.png)
+![Product Page Screenshot](https://github.com/Waruni9810/Lellama-Online-Seafood-Market-Website/blob/main/2.png)
 *Detailed product page with price, description, and reviews.*
 
 ### Cart Page
-![Cart Page Screenshot](./screenshots/cart.png)
+![Cart Page Screenshot](https://github.com/Waruni9810/Lellama-Online-Seafood-Market-Website/blob/main/3.png)
 *Manage your cart and proceed to checkout with ease.*
 
 ### Admin Dashboard
-![Admin Dashboard Screenshot](./screenshots/admin_dashboard.png)
+![Admin Dashboard Screenshot](https://github.com/Waruni9810/Lellama-Online-Seafood-Market-Website/blob/main/image_2024-03-17_23-20-52.png)
 *Admin panel to manage inventory, products, and orders.*
 
 > **Note:** Replace the paths with actual screenshot locations if you add screenshots.
